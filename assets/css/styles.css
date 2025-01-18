@@ -46,7 +46,7 @@ header {
     margin: 10px;
     border-style: solid;
     border: #ddd;
-    background-image: url("assets/img/banner.jpg");
+    background-image: url("../img/banner.jpg");
   
     background-position: center;
     background-size: cover;
@@ -326,7 +326,7 @@ nav li {
 }
 
 .about__section_div{
-    background: url('/assets/img/about.jpg') no-repeat left;
+    background: url('/assets/img/about.') no-repeat left;
     background-size: 55%;
     background-color: #fff;
     overflow: hidden;
@@ -623,7 +623,7 @@ nav li {
 /* ===== Footer CSS End ======== */
 
 .parallaxOne{
-    background-image: url("/assets/img/g4.jpg");
+    background-image: url("/assets/img/g4.");
     height: 90vh;
     background-size: cover;
     background-attachment: fixed;

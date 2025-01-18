@@ -326,7 +326,7 @@ nav li {
 }
 
 .about__section_div{
-    background: url('/assets/img/about.') no-repeat left;
+    background: url('/assets/img/about.jpg') no-repeat left;
     background-size: 55%;
     background-color: #fff;
     overflow: hidden;

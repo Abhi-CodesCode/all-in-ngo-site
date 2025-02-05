@@ -1,7 +1,8 @@
 # All In USA - NGO Website
 
 ## Overview
-This project is a college web development project where the goal is to create a website for the "All In USA" NGO. The website is designed to promote various initiatives like Gender Equality, Yoga & Meditation, Charity, and other social causes. The website features pages like About Us, Founder & President, Gender Equality, Yoga & Meditation, Blogs, and Charity, with a few pages currently under construction. You can chechout this website on https://abhi-codescode.github.io/all-in-ngo-site/ .
+This project is a college web development project where the goal is to create a website for the "All In USA" NGO. The website is designed to promote various initiatives like Gender Equality, Yoga & Meditation, Charity, and other social causes. The website features pages like About Us, Founder & President, Gender Equality, Yoga & Meditation, Blogs, and Charity, with a few pages currently under construction.
+You can chechout this website on https://abhi-codescode.github.io/all-in-ngo-site/ .
 
 ## Features
 - **Responsive Design:** The website is designed to be fully responsive and works well across different devices (desktop, tablet, mobile).
